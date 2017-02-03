@@ -3,7 +3,7 @@ title: [Snap+Style+Shop](snapstyleshop.herokuapp.com)
 subtitle: "The Fly!"
 author: "Sofia Cepeda"
 avatar: "img/authors/sofia.jpg"
-image: "img/snapstyleshop.png"
+image: "img/snapstyleshop.jpg"
 date:   2016-02-01
 ---
 
