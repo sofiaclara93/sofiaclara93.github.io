@@ -1,10 +1,10 @@
 ---
-title:  "Snap+Style+Shop"
+title: [Snap+Style+Shop](snapstyleshop.herokuapp.com)
 subtitle: "The Fly!"
-author: "Wferr"
-avatar: "img/authors/wferr.png"
-image: "img/snapstyleshop.jpg"
-date:   2015-04-20 12:12:12
+author: "Sofia Cepeda"
+avatar: "img/authors/sofia.jpg"
+image: "img/snapstyleshop.png"
+date:   2016-02-01
 ---
 
 ### Dolor sit amet?
