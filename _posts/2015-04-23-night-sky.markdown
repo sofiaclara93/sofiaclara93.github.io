@@ -1,7 +1,7 @@
 ---
 title:  "Absense of light"
 subtitle: "Only lights from space"
-author: "Wferr"
+author: "Sofia Cepeda"
 avatar: "img/authors/sofia.jpg"
 image: "img/d.jpg"
 date:   2016-04-23 12:12:12

@@ -1,7 +1,7 @@
 ---
 title:  "Nobody else was around."
 subtitle: "A Beautiful shot during the night."
-author: "Wferr"
+author: "Sofia Cepeda"
 avatar: "img/authors/sofia.jpg"
 image: "img/b.jpg"
 date:   2016-04-21 12:12:12

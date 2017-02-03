@@ -1,10 +1,10 @@
 ---
-title:  [Snap+Style+Shop](snapstyleshop.herokuapp.com)
+title:  "Nobody else was around."
 subtitle: "A Beautiful shot during the night."
-author: "Wferr"
+author: "Sofia Cepeda"
 avatar: "img/authors/sofia.jpg"
 image: "img/b.jpg"
-date:   2017-02-03 12:12:12
+date:   2016-04-21 12:12:12
 ---
 
 ### Dolor sit amet?
