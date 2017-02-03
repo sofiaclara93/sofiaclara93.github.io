@@ -1,5 +1,5 @@
 ---
-title:  [Snap+Style+Shop](snapstyleshop.herokuapp.com)
+title:  ["Snap+Style+Shop"](snapstyleshop.herokuapp.com)
 subtitle: "Revolutionizing fashion retail by integrating innovative technology"
 author: "Sofia Cepeda"
 avatar: "img/authors/sofia.jpg"
