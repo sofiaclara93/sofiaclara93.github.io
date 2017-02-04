@@ -1,10 +1,10 @@
 ---
-title:  ["Snap+Style+Shop"](snapstyleshop.herokuapp.com)
+title:  "Snap+Style+Shop"
 subtitle: "Revolutionizing fashion retail by integrating innovative technology"
 author: "Sofia Cepeda"
 avatar: "img/authors/sofia.jpg"
-image: "img/e.jpg"
-date:   2016-04-24 12:12:12
+image: "img/snapstyleshop.png"
+date:   2017-02-03 12:12:12
 ---
 
 ### Dolor sit amet?
