@@ -8,6 +8,7 @@ date:   2017-02-03 12:12:12
 ---
 
 [Visit the site](http://snapstyleshop.herokuapp.com)
+
 [Check out the codebase](https://github.com/sofiaclara93/snap-style-shop)
 
 I co-created a web app that shortens the distance between consumers, their preferences, and the fashion world.
