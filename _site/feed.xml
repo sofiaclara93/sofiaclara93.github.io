@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Sofia Cepeda</title>
+        <description>Modern-Blog A Elegant template for Jekyll</description>
+        <link>http://localhost:4000/</link>
+        <atom:link href="http://localhost:4000/feed.xml" rel="self"
+        type="application/rss+xml"/>
+        <pubDate>Thu, 17 May 2018 12:46:30 -0400</pubDate>
+        <lastBuildDate>Thu, 17 May 2018 12:46:30 -0400</lastBuildDate>
+        <generator>Jekyll v3.6.0</generator>
+        
+        <item>
+            <title>Customer Satisifaction</title>
+            <description>&lt;p&gt;&lt;a href=&quot;https://chartcorps-sat.herokuapp.com/&quot;&gt;Visit the site&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/sofiaclara93/satisfaction-react-app.git&quot;&gt;Check out the codebase&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I created a Single Page App using React and an express server to display our Solution team’s satisfaction rate including the total of good and bad responses we received. To make the app more interactive, I created a carousel of changing comments that are pulled from Zendesk’s APIs. By displaying the team’s total number of tickets received and solved, the app provides historical benchmarks for the team to determine how well they are performing.&lt;/p&gt;
+
+&lt;p&gt;Building this app was a great way to learn React and how components function together. By using the Express server I learned how to incorporate a React app with a backend server, and how these two processes function together.&lt;/p&gt;
+</description>
+            <pubDate>Thu, 10 May 2018 08:12:12 -0400</pubDate>
+            <link>http://localhost:4000#/2018/05/10/cc_sat_app.html</link>
+            <guid isPermaLink="true">http://localhost:4000#/2018/05/10/cc_sat_app.html</guid>
+            
+            
+        </item>
+        
+        <item>
+            <title>About me</title>
+            <description>&lt;p&gt;Hello!&lt;/p&gt;
+
+&lt;p&gt;My name is Sofia Cepeda and I am a 23 yr old web developer from New York. I have a big love for animals, so much so that I have a BS in Biology from Loyola University Maryland! My start in programming is very unorthodox. After pursuing a career in the veterinary field, I found that I become emotionally attached.  When I began to pursue programming, my pursuits were self-taught. I ran into many obstacles, but found them intriguing and challenging, enough to inspire me to work through them. I found excitement in spending time debugging my code, researching error messages, and creating small changes to view the outcomes associated with my minute adjustments. I found satisfaction when running my local server and I was able to see my project come to fruition on a web page.&lt;/p&gt;
+
+&lt;p&gt;Feel free to contact me: sofiaclara93@gmail.com&lt;/p&gt;
+</description>
+            <pubDate>Fri, 10 Feb 2017 07:12:12 -0500</pubDate>
+            <link>http://localhost:4000#/2017/02/10/about-me.html</link>
+            <guid isPermaLink="true">http://localhost:4000#/2017/02/10/about-me.html</guid>
+            
+            
+        </item>
+        
+        <item>
+            <title>MovieFace 2.0</title>
+            <description>&lt;p&gt;&lt;a href=&quot;http://movieface.herokuapp.com/&quot;&gt;Visit the site&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/sofiaclara93/movieface2.0&quot;&gt;Check out the code base&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I co co-created a web app that acts as an IMDB clone. It allows users to search by genre for movies or by movie title.
+Each movie page contains information about the movie as well as a trailer. Users can review and favorite movies, which show on their profile. The app utilizes the OMDB API to search for movies and the YouTube API to search for a movie trailer.&lt;/p&gt;
+</description>
+            <pubDate>Thu, 09 Feb 2017 22:59:00 -0500</pubDate>
+            <link>http://localhost:4000#/2017/02/10/movieface.html</link>
+            <guid isPermaLink="true">http://localhost:4000#/2017/02/10/movieface.html</guid>
+            
+            
+        </item>
+        
+        <item>
+            <title>Snap+Style+Shop</title>
+            <description>&lt;p&gt;&lt;a href=&quot;http://snapstyleshop.herokuapp.com&quot;&gt;Visit the site&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/sofiaclara93/snap-style-shop&quot;&gt;Check out the codebase&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I co-created a web app that shortens the distance between consumers, their preferences, and the fashion world.
+Snap+Style+Shop is a search engine that allows users to find clothing items similar in color and style, to the image that insert to the app. The app utilizes the Google Cloud Vision API to render a type of clothing article and a color. The app also utilizes the ShopStyle API to use those results and render products of the same style. This web app allows users to find clothing similar to their style.&lt;/p&gt;
+</description>
+            <pubDate>Fri, 03 Feb 2017 07:12:12 -0500</pubDate>
+            <link>http://localhost:4000#/2017/02/03/snap_style_shop.html</link>
+            <guid isPermaLink="true">http://localhost:4000#/2017/02/03/snap_style_shop.html</guid>
+            
+            
+        </item>
+        
+    </channel>
+</rss>
