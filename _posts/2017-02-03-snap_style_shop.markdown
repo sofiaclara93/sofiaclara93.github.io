@@ -1,7 +1,7 @@
 ---
 title:  "Snap+Style+Shop"
 subtitle: "Revolutionizing fashion retail by integrating innovative technology"
-author: "Sofia Cepeda"
+author: "Sofia Ozelkan"
 avatar: "img/authors/sofia.jpg"
 image: "img/clothing.jpg"
 date:   2017-02-03 12:12:12

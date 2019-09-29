@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Sofia Cepeda</title>
+        <title>Sofia Ozelkan</title>
         <description>Modern-Blog A Elegant template for Jekyll</description>
         <link>http://localhost:4000/</link>
         <atom:link href="http://localhost:4000/feed.xml" rel="self"
         type="application/rss+xml"/>
-        <pubDate>Thu, 17 May 2018 12:46:30 -0400</pubDate>
+        <pubDate>Sun, 29 Sep 2019 12:46:30 -0400</pubDate>
         <lastBuildDate>Thu, 17 May 2018 12:46:30 -0400</lastBuildDate>
         <generator>Jekyll v3.6.0</generator>
-        
+
         <item>
             <title>Customer Satisifaction</title>
             <description>&lt;p&gt;&lt;a href=&quot;https://chartcorps-sat.herokuapp.com/&quot;&gt;Visit the site&lt;/a&gt;&lt;/p&gt;
@@ -23,10 +23,10 @@
             <pubDate>Thu, 10 May 2018 08:12:12 -0400</pubDate>
             <link>http://localhost:4000#/2018/05/10/cc_sat_app.html</link>
             <guid isPermaLink="true">http://localhost:4000#/2018/05/10/cc_sat_app.html</guid>
-            
-            
+
+
         </item>
-        
+
         <item>
             <title>About me</title>
             <description>&lt;p&gt;Hello!&lt;/p&gt;
@@ -38,10 +38,10 @@
             <pubDate>Fri, 10 Feb 2017 07:12:12 -0500</pubDate>
             <link>http://localhost:4000#/2017/02/10/about-me.html</link>
             <guid isPermaLink="true">http://localhost:4000#/2017/02/10/about-me.html</guid>
-            
-            
+
+
         </item>
-        
+
         <item>
             <title>MovieFace 2.0</title>
             <description>&lt;p&gt;&lt;a href=&quot;http://movieface.herokuapp.com/&quot;&gt;Visit the site&lt;/a&gt;&lt;/p&gt;
@@ -54,10 +54,10 @@ Each movie page contains information about the movie as well as a trailer. Users
             <pubDate>Thu, 09 Feb 2017 22:59:00 -0500</pubDate>
             <link>http://localhost:4000#/2017/02/10/movieface.html</link>
             <guid isPermaLink="true">http://localhost:4000#/2017/02/10/movieface.html</guid>
-            
-            
+
+
         </item>
-        
+
         <item>
             <title>Snap+Style+Shop</title>
             <description>&lt;p&gt;&lt;a href=&quot;http://snapstyleshop.herokuapp.com&quot;&gt;Visit the site&lt;/a&gt;&lt;/p&gt;
@@ -70,9 +70,9 @@ Snap+Style+Shop is a search engine that allows users to find clothing items simi
             <pubDate>Fri, 03 Feb 2017 07:12:12 -0500</pubDate>
             <link>http://localhost:4000#/2017/02/03/snap_style_shop.html</link>
             <guid isPermaLink="true">http://localhost:4000#/2017/02/03/snap_style_shop.html</guid>
-            
-            
+
+
         </item>
-        
+
     </channel>
 </rss>
