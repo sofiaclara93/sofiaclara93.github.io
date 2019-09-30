@@ -6,10 +6,27 @@
         <link>http://localhost:4000/</link>
         <atom:link href="http://localhost:4000/feed.xml" rel="self"
         type="application/rss+xml"/>
-        <pubDate>Sun, 29 Sep 2019 12:46:30 -0400</pubDate>
-        <lastBuildDate>Thu, 17 May 2018 12:46:30 -0400</lastBuildDate>
-        <generator>Jekyll v3.6.0</generator>
+        <pubDate>Sun, 29 Sep 2019 18:41:23 -0600</pubDate>
+        <lastBuildDate>Sun, 29 Sep 2019 18:41:23 -0600</lastBuildDate>
+        <generator>Jekyll v3.8.5</generator>
+        
+        <item>
+            <title>About Me</title>
+            <description>&lt;p&gt;Hello!&lt;/p&gt;
 
+&lt;p&gt;My name is Sofia Ozelkan and I am a 26 yr old Product Manager based in Broomfield, Colorado. I graduated from Loyola University Maryland with a BS in Biology. My start in tech is a bit unorthodox. After graduating college, I attended DevBootcamp, an immersive 19-week program to learn coding. I studied Ruby, React and Javascript. I found satisfaction when running my local server and I was able to see my project come to fruition on a web page. Since 2017, I have worked at enterprise-scale SaaS companies including Chartbeat and SiteCompli.&lt;/p&gt;
+
+&lt;p&gt;When I am not geeking out over technology, I can be found at the dog run with my Rat terrier, Mavi or snuggling at home with my resident cat, Stella or one of my foster cats. While everyone naps, I love to spend time solving jigsaw puzzles or the latest brain teaser puzzles.&lt;/p&gt;
+
+&lt;p&gt;Feel free to contact me: sofiaclara93@gmail.com&lt;/p&gt;
+</description>
+            <pubDate>Fri, 27 Sep 2019 06:12:12 -0600</pubDate>
+            <link>http://localhost:4000#/2019/09/27/about-me.html</link>
+            <guid isPermaLink="true">http://localhost:4000#/2019/09/27/about-me.html</guid>
+            
+            
+        </item>
+        
         <item>
             <title>Customer Satisifaction</title>
             <description>&lt;p&gt;&lt;a href=&quot;https://chartcorps-sat.herokuapp.com/&quot;&gt;Visit the site&lt;/a&gt;&lt;/p&gt;
@@ -20,28 +37,13 @@
 
 &lt;p&gt;Building this app was a great way to learn React and how components function together. By using the Express server I learned how to incorporate a React app with a backend server, and how these two processes function together.&lt;/p&gt;
 </description>
-            <pubDate>Thu, 10 May 2018 08:12:12 -0400</pubDate>
+            <pubDate>Thu, 10 May 2018 06:12:12 -0600</pubDate>
             <link>http://localhost:4000#/2018/05/10/cc_sat_app.html</link>
             <guid isPermaLink="true">http://localhost:4000#/2018/05/10/cc_sat_app.html</guid>
-
-
+            
+            
         </item>
-
-        <item>
-            <title>About me</title>
-            <description>&lt;p&gt;Hello!&lt;/p&gt;
-
-&lt;p&gt;My name is Sofia Cepeda and I am a 23 yr old web developer from New York. I have a big love for animals, so much so that I have a BS in Biology from Loyola University Maryland! My start in programming is very unorthodox. After pursuing a career in the veterinary field, I found that I become emotionally attached.  When I began to pursue programming, my pursuits were self-taught. I ran into many obstacles, but found them intriguing and challenging, enough to inspire me to work through them. I found excitement in spending time debugging my code, researching error messages, and creating small changes to view the outcomes associated with my minute adjustments. I found satisfaction when running my local server and I was able to see my project come to fruition on a web page.&lt;/p&gt;
-
-&lt;p&gt;Feel free to contact me: sofiaclara93@gmail.com&lt;/p&gt;
-</description>
-            <pubDate>Fri, 10 Feb 2017 07:12:12 -0500</pubDate>
-            <link>http://localhost:4000#/2017/02/10/about-me.html</link>
-            <guid isPermaLink="true">http://localhost:4000#/2017/02/10/about-me.html</guid>
-
-
-        </item>
-
+        
         <item>
             <title>MovieFace 2.0</title>
             <description>&lt;p&gt;&lt;a href=&quot;http://movieface.herokuapp.com/&quot;&gt;Visit the site&lt;/a&gt;&lt;/p&gt;
@@ -51,13 +53,13 @@
 &lt;p&gt;I co co-created a web app that acts as an IMDB clone. It allows users to search by genre for movies or by movie title.
 Each movie page contains information about the movie as well as a trailer. Users can review and favorite movies, which show on their profile. The app utilizes the OMDB API to search for movies and the YouTube API to search for a movie trailer.&lt;/p&gt;
 </description>
-            <pubDate>Thu, 09 Feb 2017 22:59:00 -0500</pubDate>
-            <link>http://localhost:4000#/2017/02/10/movieface.html</link>
-            <guid isPermaLink="true">http://localhost:4000#/2017/02/10/movieface.html</guid>
-
-
+            <pubDate>Thu, 09 Feb 2017 20:59:00 -0700</pubDate>
+            <link>http://localhost:4000#/2017/02/09/movieface.html</link>
+            <guid isPermaLink="true">http://localhost:4000#/2017/02/09/movieface.html</guid>
+            
+            
         </item>
-
+        
         <item>
             <title>Snap+Style+Shop</title>
             <description>&lt;p&gt;&lt;a href=&quot;http://snapstyleshop.herokuapp.com&quot;&gt;Visit the site&lt;/a&gt;&lt;/p&gt;
@@ -67,12 +69,12 @@ Each movie page contains information about the movie as well as a trailer. Users
 &lt;p&gt;I co-created a web app that shortens the distance between consumers, their preferences, and the fashion world.
 Snap+Style+Shop is a search engine that allows users to find clothing items similar in color and style, to the image that insert to the app. The app utilizes the Google Cloud Vision API to render a type of clothing article and a color. The app also utilizes the ShopStyle API to use those results and render products of the same style. This web app allows users to find clothing similar to their style.&lt;/p&gt;
 </description>
-            <pubDate>Fri, 03 Feb 2017 07:12:12 -0500</pubDate>
+            <pubDate>Fri, 03 Feb 2017 05:12:12 -0700</pubDate>
             <link>http://localhost:4000#/2017/02/03/snap_style_shop.html</link>
             <guid isPermaLink="true">http://localhost:4000#/2017/02/03/snap_style_shop.html</guid>
-
-
+            
+            
         </item>
-
+        
     </channel>
 </rss>
